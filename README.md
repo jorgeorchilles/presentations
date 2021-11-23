@@ -1,4 +1,4 @@
-# Slides and artifacts for presentations by Jorge Orchilles
+# Presentations by Jorge Orchilles
 
 | Year | Organization | Talk Title | Link |
 | --- | --- | ----------- | --- |
