@@ -1,29 +1,0 @@
-Companies are putting a lot of money into security but still getting owned.
-Understand the offense needs to guide the defense. If you don't understand the threats you will not be able to defend against them.
-Need to put more attention on IDS than IPS. You either block it or you don't.
-If you don't know something is an attack how are you going to stop it.
-
-Damage happens with outbound traffic not inbound. Do outbound filtering also. Data exilfration is the problem. Look at all the breaches, records stolen!
-Normal user = less than 30minutes and small traffic
-Attack = longer than 30 minutes and lots of traffic
-
-Move away from signature analysis. Should be a secondary measure.
-
-Analogy: You don't buy security.
-You got to Home Depot buy wood, nail gun, etc take it home and leave it there. There will be no deck.
-You buy a firewall, IDS, encyrption and leave it there, you don't have security!
-
-Saying you will never get sick is a lie. Same with saying you will never be breached
-You will! Minimize the impact. Learn to get your systems back up. Incident handling procedures.
-
-Not how many port 80 systems do you have open but what systems do those port 80 systems have contact with?
-
-Mobile Devices - SmartPhones, PDAs, Laptops - Full 
-
-Emerging ThreatsTargeting the user:Google HacksSee not just what is coming into your environment but what is leaving.
-
-Live Demo's
-Hydra SSH or FTP bruteforce
-SQL injection
-Firebug on cellphone site. Cart32.exe
-
