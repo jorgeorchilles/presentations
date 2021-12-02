@@ -8,3 +8,4 @@
 | 2010 | ISACA | Emerging Threats to Infrastructure | [Slides](https://github.com/jorgeorchilles/presentations/tree/main/2010-ISACA) |  |
 | 2010 | SFISSA | Emerging Threats to Infrastructure | [Slides](https://github.com/jorgeorchilles/presentations/tree/main/2010-SFISSA) |  |
 | 2011 | SFISSA | BackTrack Workshop | [Slides](https://github.com/jorgeorchilles/presentations/tree/main/2011-SFISSA) |  |
+| 2016 | FS-ISAC | Purple Team | [Slides](https://github.com/jorgeorchilles/presentations/tree/main/2016-FS-ISAC) |  |
