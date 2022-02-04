@@ -2,6 +2,7 @@
 
 | Year | Organization | Talk Title | Slides | Video |
 | --- | --- | ----------- | --- | --- |
+| 2022 | CactusCon 10 | Operationalized Purple Teaming | [Slides](https://github.com/jorgeorchilles/presentations/blob/main/2022-CactusCon/Operationalized%20Purple%20Team%20-%20CactusCon.pdf) | [YouTube](https://www.youtube.com/watch?v=5KtzfoMX7tw) | 
 | 2021 | GRIMMCon 0x6 | State of C2 Matrix - 2021 | [Slides](https://github.com/jorgeorchilles/presentations/blob/main/2021-GRIMMCon0x6/State%20of%20C2%20Matrix%20-%202021%20-%20GRIMMCon0x6.pdf) |  |
 | 2016 | FS-ISAC | Purple Team | [Slides](https://github.com/jorgeorchilles/presentations/tree/main/2016-FS-ISAC) |  |
 | 2011 | Hack Miami | Vulnerability Disclosure | [Slides](https://github.com/jorgeorchilles/presentations/tree/main/2011-VulnerabilityDisclosure) |  |
